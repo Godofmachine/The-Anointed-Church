@@ -1,0 +1,418 @@
+*{
+  margin: 0% ;
+  padding: 0%;
+ 
+}
+body{
+    font-family: 'Switzer', sans-serif;
+    overflow-x: hidden !important;
+   width: 100% !important;
+   position: relative;
+                                                
+}
+
+
+
+
+
+.anointedbluebg{
+    background-color: #29638E;
+}
+.center{
+  margin: auto;
+}
+
+.navbar-brand{
+    padding-left: 8%;
+}
+.nav-list{
+    font-size: 20px;
+    font-weight: light;
+    color: #171717;
+    margin-right: 100px;
+
+}
+   
+
+.nav-item{
+    padding-right: 50px;
+}
+.nav-item .contact{
+   margin-right: 100px !important;
+}
+.logo-text{
+    font-size: 18px !important;
+    font-weight: 900;
+    color: #171717;
+    margin-right: 700px;
+   line-height: 15px;
+   margin-bottom: -8px;
+}
+#carouselExampleFade{
+  position: absolute;
+  width: 90vw ;
+}
+.carousel-inner{
+  width: 100vw !important;
+ 
+
+}
+.carousel .carousel-indicators{
+  margin-left: 270px;
+}
+.carousel .carousel-indicators button {
+    width: 20px;
+   height: 20px;
+   border-radius: 100%;
+   margin: 10px;
+   border: 2px solid #fefefe;
+   background: transparent;
+ }
+ .carousel .carousel-indicators .active {
+   background-color:  #fefefe;
+ }
+ .main .carousel-control-prev-icon {
+  height: 215px;
+  width: 215px;
+
+  color: #fefefe;
+ }
+ 
+ .main .carousel-control-next-icon {
+  height: 215px;
+  width: 215px;
+  color: #fefefe;
+  margin-right: -130px;
+ }
+
+.about-section{
+    width: 1439px;
+    background-color: #171717;
+    color: #fefefe;
+    font-weight: light bold;
+    font-size: 25px;
+    margin-left: 5.1px;
+    padding-bottom: 50px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+    margin-top: 660px;
+
+}
+.about-us{
+    font-weight: 900;
+    padding-top: 30px;
+}
+.header {
+    position: relative;
+    padding:  20px;
+    text-align: center;
+  }
+  
+  .header::before,
+  .header::after {
+    content: '';    position: absolute;
+    top: 50%;
+    width: 35%;
+    height: 2px;
+    background-color: #fefefe;
+  }
+  
+  .header::before {
+    left: 10px;
+  }
+  
+  .header::after {
+    right: 10px;
+  }
+.pg1{
+    margin-top: 70px;
+}
+.pg2{margin-top: 70px;
+}
+.pg3{
+    margin-top: 70px;
+}
+.pg4{
+    padding-top: 50px;
+}
+.bg-body-secondary{
+  position: relative;
+  width: 100%;
+  padding: 0 60%;
+  margin-left: 0%!important;
+  padding-top: 100px;
+  
+}
+    /* color: #E41D2B; */
+.bg-body-secondary .bluehead{
+  margin-bottom: 10%;
+  position: absolute;
+  margin: 0 0%;
+  padding: 0.5% 0 0.5% 0;
+  width: 75% !important ;
+ 
+}
+.bhtext{
+  height: 80px;
+   font-weight: 900;
+   color: #fefefe;
+   padding-top: 15px;
+}
+.sub .carousel-control-prev-icon {
+    height: 68px;
+    width: 68px;
+    margin-top: 50px;
+    color: #fefefe;
+}
+.sub .carousel-control-next-icon{
+    margin-left: -70px;
+    margin-top: 50px;
+    height: 68px;
+    width: 68px;
+    color: #fefefe;
+}
+.location{
+  margin-left: 180px;
+  padding-top: 30px;
+ 
+}
+.map{
+  margin-top: -260px;
+}
+.address{
+  font-size: 25px;
+  color: #171717;
+  font-weight: light;
+  text-decoration-thickness: 1.3px;
+  text-underline-offset: 4px;
+  text-decoration-color: #171717;
+  margin-top: 30px;
+  
+}
+.Txt-grp1{
+ margin-left: -50px!important;
+}
+.clock{
+  margin-top: -195px;
+}
+.sunday{
+  margin-top: 130px !important;
+  margin-left: -190px;
+  font-size: 25px;
+  
+  color: #171717;
+}
+.time2{
+  margin-left: -185px;
+  font-weight: light;
+  color: #171717;
+}
+.online{
+  margin-top: 230px !important;
+  margin-left: -137px;
+  font-size: 25px;
+  line-height: 20px;
+  color: #171717;
+}
+.time3{
+
+  font-weight: light;
+  color: #171717;
+}
+.friday{
+  margin-top: 320px !important;
+  margin-left: -191px;
+  font-size: 25px;
+  line-height: 20px;
+  color: #171717;
+}
+.time4{
+
+  font-weight: light;
+  color: #171717;
+}
+.leadership{
+  padding-top: 100px;
+}
+.lead{
+  width: 83%;
+  height: 417px;
+  margin-left: 100px;
+  justify-content: center;
+ }
+ .lead-image{
+  background: #000000 !important;
+ }
+ .lead-name{
+  font-size: 25px;
+  font-weight: bold;
+  color: #fefefe;
+  margin-top: -70px;
+  margin-bottom: -20px;
+  
+ }
+ .lead-name-wrap{
+  font-size: 23px !important;
+  margin-top: -78px;
+  text-align: center;
+ }
+ .lead-role{
+  font-size: 20px;
+  font-weight: light;
+  color: #ff7882;
+  padding-top: 20px !important;
+ }
+.lead-img{
+  margin-left: -50px;
+}
+.lead-img1{
+  margin-left: -50px;
+}
+.lead-img2{
+  margin-left: -30px;
+}
+.ministries{
+  position: relative;
+  margin-top: 50px !important;
+  width: 90vw !important;
+ 
+  
+
+}
+.ministries .ministry{
+  margin-top: -40px;
+  position: absolute;
+  margin-left: 135px;
+  width: 70.5vw!important;
+
+  
+}
+.ministries .container .row{
+  margin-top: 40px;
+  width: 1110px;
+  margin-left: 90px !important;
+}
+.min-image{
+  width: 399px;
+  height: 566px;
+}
+.min-img{
+  margin-left: -12px;
+}
+.card-body {
+  background-color: #29638E;
+  margin-right: -12px;
+  margin-left: -12px;
+  background-size: cover;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+ height: 80px;
+}
+.read{
+  font-size: 20px;
+  font-weight: light;
+  color: #fefefe;
+  margin-bottom: -50px !important;
+  padding-bottom: -50px !important;
+}
+.image-text {
+  position: absolute;
+  top: 40%; /* position the text halfway down the container */
+  left: 50%; /* position the text halfway across the container */
+  transform: translate(-50%, -50%); /* center the text within the container */
+  color: #fefefe; /* set the text color to white (or any color you want) */
+  text-align: center; /* center the text horizontally */
+  
+}
+.image-text-sub {  
+  position: absolute;
+  top: 50%; /* position the text halfway down the container */
+  left: 50%; /* position the text halfway across the container */
+  transform: translate(-50%, -50%); /* center the text within the container */
+  color: #fefefe; /* set the text color to white (or any color you want) */
+  text-align: center; /* center the text horizontally */
+  font-size: 20px; /* set the font*/
+}
+.image-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 87.65%;
+  content: "";
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.5); /* set the background color to transparent black */
+}
+.gallery{
+  padding-top: 100px;
+  overflow-x: visible;
+}
+.gallery-scroll{
+  margin-left: 170px !important;
+  overflow-x: visible !important;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.vr{
+  height: 312px; 
+  opacity: 30%;
+  width: 1px;
+  font-weight: 2px;
+  color: #fefefe;
+}
+.footer1{
+  color: #fefefe;
+  font-size: 20px;
+}
+.white{
+  color: #fefefe;
+}
+
+  
+.vl {
+  border-left: 2px solid #fefefe;
+  height: 312px;
+ 
+ margin-top: 30px;
+  margin-bottom: 50px;
+  opacity: 30%;
+}
+#comment{
+  font-size: 20px;
+  width: 600px;
+}
+.send{
+  margin-left: 540px !important;
+  margin-top: -50px;
+  position: absolute;
+}
+footer{
+  background-color: #171717;
+  height: 100px;
+  font-size: 20px;
+  font-weight: normal;
+  color: #fefefe;
+}
+.footer{
+  padding-top: 35px;
+}
+.icons img{
+  margin-right: 19px;
+  flex-wrap: nowrap;
+  margin-top: -100px; 
+}
+
+/* desktop  * */
+@media only screen and (min-width: 1025px) {
+  .see-more{
+    display: none;
+  }
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {...}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {...}
+
